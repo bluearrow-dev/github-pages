@@ -38,6 +38,10 @@ When copying the exercise, we recommend the following settings:
 If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
 
 - Check to see if a job is running. Sometimes it simply takes a bit longer.
+- so my first bid isn't so good, what can I do>
+- sometimes it is very boring. It is like a something....
+- It is very useful for my testing and improving my skills
+- 
 
 - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
 
